@@ -17,5 +17,3 @@ cout << "Hola";
 
 - [x] This task is complete
 - [ ] This task is not complete
-
-![Descripción](URL_DE_LA_IMAGEN)
